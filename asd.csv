@@ -1,0 +1,429 @@
+activate;activate.messages.error;<strong>Kullanýcýnýzýn aktivasyon iþlemi yapýlamadý.</strong> Lütfen giriþ sayfasýndan kaydolun.
+activate;activate.title;Aktivasyon
+activate;activate.messages.success;<strong>Kullanýcýnýzýn aktivasyon iþlemi tamamlandý.</strong> Lütfen 
+additionalService;kuryeApp.additionalService.statusoff;Pasif
+additionalService;kuryeApp.additionalService.updated;{{ param }} no'lu Ek Hizmet Deðiþtirildi
+additionalService;kuryeApp.additionalService.created;{{ param }} no'lu Ek Hizmet Oluþturuldu
+additionalService;kuryeApp.additionalService.name;Ek Hizmet
+additionalService;kuryeApp.additionalService.companyType;Firma Türü
+additionalService;kuryeApp.additionalService.deleted;{{ param }} no'lu Ek Hizmet Silindi
+additionalService;kuryeApp.additionalService.home.notFound;Ek Hizmet Bulunamadý
+additionalService;kuryeApp.additionalService.delete.question;{{ id }} no'lu Ek Hizmeti Silmek Ýstediðinize Emin misiniz?
+additionalService;kuryeApp.additionalService.home.title;Ek Hizmetler
+additionalService;kuryeApp.additionalService.home.createOrEditLabel;Ek Hizmet Oluþtur veya Düzenle
+additionalService;kuryeApp.additionalService.status;Durum
+additionalService;kuryeApp.additionalService.statuson;Aktif
+additionalService;kuryeApp.additionalService.home.createLabel;Yeni Ek Hizmet Oluþtur
+additionalService;kuryeApp.additionalService.detail.title;Ek Hizmet
+audits;audits.table.header.data;Ekstra bilgi
+audits;audits.table.header.status;Durum
+audits;audits.table.data.remoteAddress;Uzak Adres:
+audits;audits.notFound;No audit found
+audits;audits.filter.to;kime
+audits;audits.filter.from;kimden
+audits;audits.table.header.date;Tarih
+audits;audits.filter.button.clear;temizle
+audits;audits.filter.button.today;bugün
+audits;audits.table.header.principal;Kullanýcý
+audits;audits.filter.button.weeks;Hafta
+audits;audits.title;Denetim
+audits;audits.filter.title;Tarihleri filtrele
+audits;audits.filter.button.close;kapat
+company;kuryeApp.company.home.createLabel;Yeni Firma Oluþtur
+company;kuryeApp.company.statuson;Açýk
+company;kuryeApp.company.currencyType;Para Birimi
+company;kuryeApp.company.logo;Logo
+company;kuryeApp.company.home.createOrEditLabel;Firma Oluþtur veya Düzenle
+company;kuryeApp.company.basePrice;Baz Fiyat
+company;kuryeApp.company.contactPerson;Yetkili
+company;kuryeApp.company.lockstatuson;Aktif
+company;kuryeApp.company.delete.question;{{ id }} no'lu Firmayý Silmek Ýstediðinize Emin misiniz?
+company;kuryeApp.company.address;Adres
+company;kuryeApp.company.status;Durum
+company;kuryeApp.company.commisionRate;Komisyon Oraný
+company;kuryeApp.company.createDate;Oluþturma Tarihi
+company;kuryeApp.company.created;{{ param }} no'lu Firma Oluþturuldu
+company;kuryeApp.company.langKey;Varsayýlan Dil
+company;kuryeApp.company.home.title;Firmalar
+company;kuryeApp.company.lockstatusoff;Pasif
+company;kuryeApp.company.ready;Aktivasyon Talebi
+company;kuryeApp.company.email;E-Mail
+company;kuryeApp.company.name;Firma Adý
+company;kuryeApp.company.documents;Gerekli Evraklar
+company;kuryeApp.company.downloadFile;Dosyayý Ýndir
+company;kuryeApp.company.lockStatus;Aktiflik Durumu
+company;kuryeApp.company.lockstatusall;Tümü
+company;kuryeApp.company.companyType;Firma Türü
+company;kuryeApp.company.home.notFound;Firma Bulunamadý
+company;kuryeApp.company.lockstatuswaiting;Aktivasyon Bekliyor
+company;kuryeApp.company.waitingForActivation;Aktivasyon Bekleniyor
+company;kuryeApp.company.deleted;{{ param }} no'lu Firma Silindi
+company;kuryeApp.company.statusoff;Kapalý
+company;kuryeApp.company.phone;Telefon
+company;kuryeApp.company.updated;{{ param }} no'lu Firma Düzenlendi
+company;kuryeApp.company.detail.title;Firma
+companyPacket;kuryeApp.companyPacket.statuson;Aktif
+companyPacket;kuryeApp.companyPacket.deleted;{{ param }} no'lu Hizmet Paketi Silindi
+companyPacket;kuryeApp.companyPacket.detail.title;Hizmet Paketi
+companyPacket;kuryeApp.companyPacket.delete.question;{{ id }} no'lu Hizmet Paketini Silmek Ýstediðinize Emin misiniz?
+companyPacket;kuryeApp.companyPacket.statusoff;Pasif
+companyPacket;kuryeApp.companyPacket.updated;{{ param }} no'lu Hizmet Paketi Deðiþtirildi
+companyPacket;kuryeApp.companyPacket.home.notFound;Hizmet Paketi Bulunamadý
+companyPacket;kuryeApp.companyPacket.services;Hizmet Ücretleri
+companyPacket;kuryeApp.companyPacket.currencyType;Para Birimi
+companyPacket;kuryeApp.companyPacket.home.createOrEditLabel;Hizmet Paketi Oluþtur veya Düzenle
+companyPacket;kuryeApp.companyPacket.home.title;Hizmet Paketleri
+companyPacket;kuryeApp.companyPacket.created;{{ param }} no'lu Hizmet Paketi Oluþturuldu
+companyPacket;kuryeApp.companyPacket.home.createLabel;Yeni Hizmet Paketi Oluþtur
+companyPacket;kuryeApp.companyPacket.name;Paket Adý
+companyPacket;kuryeApp.companyPacket.status;Durum
+companyPacketService;kuryeApp.companyPacketService.statuson;Aktif
+companyPacketService;kuryeApp.companyPacketService.created;Hizmet Ücreti Kaydedildi
+companyPacketService;kuryeApp.companyPacketService.multiply;*
+companyPacketService;kuryeApp.companyPacketService.type;Ekle/Çarp
+companyPacketService;kuryeApp.companyPacketService.home.title;Ek Hizmetler
+companyPacketService;kuryeApp.companyPacketService.updated;Hizmet Ücreti Kaydedildi
+companyPacketService;kuryeApp.companyPacketService.status;Durum
+companyPacketService;kuryeApp.companyPacketService.plus;+
+companyPacketService;kuryeApp.companyPacketService.price;Ücret/Oran
+companyPacketService;kuryeApp.companyPacketService.statusoff;Pasif
+companyPacketService;kuryeApp.companyPacketService.additionalService;Hizmet
+companyProductPrice;kuryeApp.companyProductPrice.deleted;{{ param }} no'lu Ürün Fiyatý Silindi
+companyProductPrice;kuryeApp.companyProductPrice.delete.question;{{ id }} no'lu Ürün Fiyatýný Silmek Ýstediðinize Emin misiniz?
+companyProductPrice;kuryeApp.companyProductPrice.home.notFound;Ürün Fiyatý Bulunamadý
+companyProductPrice;kuryeApp.companyProductPrice.statusoff;Pasif
+companyProductPrice;kuryeApp.companyProductPrice.additionalPrice;Ek birim baþýna fiyat
+companyProductPrice;kuryeApp.companyProductPrice.maxQuantity;Maksimum Miktar
+companyProductPrice;kuryeApp.companyProductPrice.basePrice;Baz Fiyat
+companyProductPrice;kuryeApp.companyProductPrice.productType;Ürün Türü
+companyProductPrice;kuryeApp.companyProductPrice.home.title;Ürün Fiyatlarý
+companyProductPrice;kuryeApp.companyProductPrice.home.createOrEditLabel;Ürün Fiyatý Oluþtur veya Düzenle
+companyProductPrice;kuryeApp.companyProductPrice.home.createLabel;Ürün Fiyatý Oluþtur
+companyProductPrice;kuryeApp.companyProductPrice.statuson;Aktif
+companyProductPrice;kuryeApp.companyProductPrice.detail.title;Ürün Fiyatý
+companyProductPrice;kuryeApp.companyProductPrice.name;Name
+companyProductPrice;kuryeApp.companyProductPrice.baseQuantity;Baz Miktar
+companyProductPrice;kuryeApp.companyProductPrice.created;{{ param }} no'lu Ürün Fiyatý Oluþturuldu
+companyProductPrice;kuryeApp.companyProductPrice.status;Durum
+companyProductPrice;kuryeApp.companyProductPrice.updated;{{ param }} no'lu Ürün Fiyatý Deðiþtirildi
+companyType;kuryeApp.companyType.home.createOrEditLabel;Firma Türü  Oluþtur veya Düzenle
+companyType;kuryeApp.companyType.productType;Ürün Türü
+companyType;kuryeApp.companyType.additionalService;Ek Hizmet
+companyType;kuryeApp.companyType.updated;{{ param }} no'lu Firma Türü Düzenlendi
+companyType;kuryeApp.companyType.deleted;{{ param }} no'lu Firma Türü Silindi
+companyType;kuryeApp.companyType.home.createLabel;Yeni Firma Türü Oluþtur
+companyType;kuryeApp.companyType.home.notFound;Firma Türü Bulunamadý
+companyType;kuryeApp.companyType.documentType;Doküman Türü
+companyType;kuryeApp.companyType.delete.question;{{ id }} no'lu Firma Türünü Silmek Ýstediðinize Emin misiniz?
+companyType;kuryeApp.companyType.home.title;Firma Türleri
+companyType;kuryeApp.companyType.detail.title;Firma Türü
+companyType;kuryeApp.companyType.name;Firma Türü
+companyType;kuryeApp.companyType.created;{{ param }} no'lu Firma Türü Oluþturuldu
+configuration;configuration.table.prefix;Önek
+configuration;configuration.table.properties;Özellikler
+configuration;configuration.filter;Filtrele (Önek ile)
+configuration;configuration.title;Yapýlandýrma
+currencyType;kuryeApp.currencyType.created;{{ param }} no'lu Para Birimi Oluþturuldu
+currencyType;kuryeApp.currencyType.home.title;Para Birimleri
+currencyType;kuryeApp.currencyType.delete.question;{{ id }} no'lu Para Biriminü Silmek Ýstediðinize Emin misiniz?
+currencyType;kuryeApp.currencyType.currencyCode;Para Birimi Kodu
+currencyType;kuryeApp.currencyType.home.createLabel;Yeni Para Birimi Oluþtur
+currencyType;kuryeApp.currencyType.updated;{{ param }} no'lu Para Birimi Düzenlendi
+currencyType;kuryeApp.currencyType.deleted;{{ param }} no'lu Para Birimi Silindi
+currencyType;kuryeApp.currencyType.home.createOrEditLabel;Para Birimi  Oluþtur veya Düzenle
+currencyType;kuryeApp.currencyType.currencyName;Para Birimi
+currencyType;kuryeApp.currencyType.home.notFound;Para Birimi Bulunamadý
+currencyType;kuryeApp.currencyType.detail.title;Para Birimi
+documentType;kuryeApp.documentType.name;Adý
+documentType;kuryeApp.documentType.updated;{{ param }} no'lu Doküman Türü Düzenlendi
+documentType;kuryeApp.documentType.deleted;{{ param }} no'lu Doküman Türü Silindi
+documentType;kuryeApp.documentType.detail.title;Doküman Türü
+documentType;kuryeApp.documentType.home.createOrEditLabel;Doküman Türü Oluþtur veya Düzenle
+documentType;kuryeApp.documentType.home.createLabel;Yeni Doküman Türü Oluþtur
+documentType;kuryeApp.documentType.home.notFound;Doküman Türü Bulunamadý
+documentType;kuryeApp.documentType.home.title;Doküman Türleri
+documentType;kuryeApp.documentType.delete.question;{{ id }} no'lu Doküman Türünü Silmek Ýstediðinize Emin misiniz?
+documentType;kuryeApp.documentType.created;{{ param }} no'lu Doküman Türü Oluþturuldu
+documentType;kuryeApp.documentType.companyType;Firma Türü
+global;global.menu.entities.orderT;Sipariþler
+global;global.form.confirmpassword.label;Yeni Þifre Tekrar
+global;entity.action.save;Kaydet
+global;global.messages.validate.confirmpassword.minlength;Tekrar þifreniz en az 4 karakter olmalýdýr
+global;global.menu.entities.priceList;Fiyat Listesi
+global;global.menu.entities.documentType;Doküman Türleri
+global;global.item-count;Toplam {{total}} kaydýn {{first}} - {{second}} arasý gösteriliyor.
+global;error.idnull;Invalid ID
+global;global.menu.admin.logs;Kayýtlar
+global;global.menu.entities.main;Varlýklar
+global;global.messages.validate.email.minlength;E-posta adresi en az 5 karakter olmalýdýr
+global;entity.action.close;Kapat
+global;error.file.could.not.extract;Could not extract file
+global;global.menu.admin.tracker;Kullanýcý Takip
+global;global.menu.entities.productType;Ürün Türleri
+global;global.messages.info.authenticated.prefix;
+global;global.menu.admin.main;Yönetim
+global;global.form.email.placeholder;E-posta adresiniz
+global;entity.validation.patternLogin;Bu alan harf, rakam veya e-posta adresi içermeli.
+global;dateFilter.last60Days;Son 2 Ay
+global;dateFilter.last90Days;Son 3 Ay
+global;global.menu.language;Dil
+global;error.file.not.image;File was expected to be an image but was found to be "{{ fileType }}"
+global;error.emailexists;E-posta adresi zaten kullanýlýyor!
+global;global.field.id;No
+global;entity.detail.value;Deðer
+global;global.menu.entities.region;Bölgeler
+global;dateFilter.all;Tümü
+global;entity.validation.min;Bu alan en az {{min}} olmalý.
+global;global.menu.entities.companyPacketService;Hizmet Paketi Hizmetleri
+global;entity.action.addimage;Resim Ekle
+global;entity.action.delete;Sil
+global;entity.detail.field;Alan
+global;error.userexists;Kullanýcý adý daha önce alýnmýþ!
+global;global.menu.entities.currencyType;Para Birimleri
+global;global.messages.info.register.noaccount;Henüz bir hesabýnýz yok mu?
+global;global.menu.home;Ana Sayfa
+global;global.menu.account.settings;Ayarlar
+global;entity.validation.max;Bu alan en fazla {{max}} olmalý.
+global;global.form.currentpassword.placeholder;Mevcut Þifreniz
+global;entity.action.view;Görüntüle
+global;global.menu.account.register;Kayýt
+global;entity.validation.datetimelocal;Bu alan tarih veya zaman içermeli.
+global;global.form.email.label;E-posta
+global;global.form.newpassword.placeholder;Yeni Þifreniz
+global;global.ribbon.dev;Development
+global;entity.validation.minlength;Bu alan en az {{min}} karakterden oluþabilir.
+global;global.form.username.label;Kullanýcý Adý
+global;error.NotNull;{{fieldName}} alaný boþ býrakýlamaz!
+global;global.menu.account.login;Giriþ
+global;global.menu.account.logout;Çýkýþ
+global;error.url.not.found;Bulunamadý
+global;dateFilter.last3Days;Son 3 Gün
+global;global.messages.validate.newpassword.minlength;Þifreniz en az 4 karakter olmak zorundadýr
+global;global.menu.admin.userManagement;Kullanýcý yönetimi
+global;entity.validation.maxbytes;Bu alan en fazla {{max}} byte olmalý.
+global;error.Size;{{fieldName}} alaný min/max gerekliliklere uymuyor!
+global;global.menu.admin.configuration;Yapýlandýrma
+global;entity.validation.required;Bu alan gerekli.
+global;global.messages.validate.email.required;E-posta zorunlu alandýr.
+global;entity.delete.title;Silme iþlemini onayla
+global;global.messages.validate.newpassword.required;Þifre zorunlu alandýr.
+global;global.menu.account.sessions;Oturumlar
+global;global.menu.account.main;Hesap
+global;global.form.username.placeholder;Kullanýcý Adýnýz
+global;global.messages.validate.confirmpassword.maxlength;Tekrar þifreniz 50 karakterden uzun olamaz
+global;global.form.currentpassword.label;Mevcut Þifre
+global;global.menu.admin.jhipster-needle-menu-add-admin-element;JHipster will add additional menu entries here (do not translate!)
+global;global.menu.admin.health;Saðlýk
+global;entity.action.edit;Düzenle
+global;global.messages.info.authenticated.suffix; yapmak istiyorsanýz, varsayýlan hesaplardan birini deneyebilirsiniz:<br/>- Yönetici (kullanýcý adý="admin" ve þifre="admin") <br/>- Kullanýcý (kullanýcý adý="user" and þifre="user").
+global;global.menu.entities.jhipster-needle-menu-add-entry;JHipster will add additional entities here (do not translate!)
+global;entity.action.back;Geri
+global;global.menu.jhipster-needle-menu-add-element;JHipster will add additional menu entries here (do not translate!)
+global;global.menu.entities.myCompany;Firmam
+global;entity.validation.pattern;Bu alan {{pattern}} þablonuna uymuyor.
+global;global.menu.entities.companyProductPrice;Ürün Fiyatlarý
+global;global.messages.validate.email.invalid;E-posta alaný uygun deðil.
+global;entity.action.cancel;Ýptal
+global;dateFilter.last7Days;Son 7 Gün
+global;entity.validation.number;Bu alan numara içermeli.
+global;global.messages.validate.email.maxlength;E-posta adresi 50 karakterden fazla olamaz
+global;global.menu.admin.database;Veritabaný
+global;dateFilter.last15Days;Son 15 Gün
+global;footer;Burasý sayfa alt bilgisi
+global;global.title;KuryeApp
+global;global.menu.entities.companyType;Firma Türleri
+global;global.menu.admin.audits;Denetim
+global;global.menu.entities.companyPacket;Hizmet Paketleri
+global;global.menu.entities.regionGroup;Gruplar
+global;global.browsehappy;<strong>Çok eski</strong> bir tarayýcý kullanýyorsunuz. Lütfen kullaným kalitenizi arttýrmak için <a href="http://browsehappy.com/?locale=tr">tarayýcýnýzý yükseltin</a>.
+global;global.menu.entities.company;Firmalar
+global;entity.validation.minbytes;Bu alanan en az {{min}} byte olmalý.
+global;error.idexists;A new {{entityName}} cannot already have an ID
+global;dateFilter.last30Days;Son 1 Ay
+global;global.menu.admin.entity-audit;Entity Audit
+global;error.internalServerError;Beklenmedik bir hata oluþtu, Sistem yöneticisine baþvurunuz
+global;global.menu.account.password;Þifre
+global;global.messages.info.authenticated.link;Giriþ
+global;entity.action.open;Aç
+global;global.form.newpassword.label;Yeni Þifre
+global;global.menu.admin.apidocs;API
+global;global.form.confirmpassword.placeholder;Yeni Þifreniz Tekrar
+global;global.messages.validate.newpassword.strength;Þifre karmaþýklýðý:
+global;global.menu.entities.additionalService;Ek Hizmetler
+global;global.messages.error.dontmatch;Þifreler eþleþmedi!
+global;global.messages.info.register.link;Yeni hesap oluþtur
+global;global.menu.admin.metrics;Ölçümler
+global;entity.validation.maxlength;Bu alan en fazla {{max}} karakterden oluþabilir.
+global;entity.action.addblob;Add blob
+global;global.messages.validate.newpassword.maxlength;Þifreniz 50 karakterden uzun olamaz
+global;error.server.not.reachable;Sunucuya ulaþýlamýyor
+global;global.messages.validate.confirmpassword.required;Tekrar þifresi zorunludur.
+login;login.password.forgot;Þifreni mi unuttun?
+login;login.form.rememberme;Beni Hatýrla
+login;login.form.password;Þifre
+login;login.form.button;Giriþ
+login;login.messages.error.authentication;<strong>Giriþ iþlemi baþarýsýz oldu!</strong> Lütfen kullanýcý bilgilerinizi kontrol edip tekrar deneyin.
+login;login.form.username.emptyError;Kullanýcý Adý Boþ Olamaz!
+login;login.form.password.emptyError;Þifre Boþ Olamaz!
+login;login.title;Giriþ
+login;login.form.password.placeholder;Þifre
+orderT;kuryeApp.orderT.reject.question;{{ id }} no'lu Sipariþi Reddetmek Ýstediðinize Emin Misiniz?
+orderT;kuryeApp.orderT.sendingDate;Gönderim Tarihi
+orderT;kuryeApp.orderT.confirm.question;{{ id }} no'lu Sipariþi Onaylamak Ýstediðinize Emin Misiniz?
+orderT;kuryeApp.orderT.home.title;Sipariþler
+orderT;kuryeApp.orderT.additionalPayments;Ek Ödemeler
+orderT;kuryeApp.orderT.delete.question;{{ id }} no'lu Sipariþi Silmek Ýstediðinize Emin misiniz?
+orderT;kuryeApp.orderT.customer;Müþteri
+orderT;kuryeApp.orderT.updated;{{ param }} no'lu Sipariþ Deðiþtirildi
+orderT;kuryeApp.orderT.detail.title;Sipariþ
+orderT;kuryeApp.orderT.images;Resimler
+orderT;kuryeApp.orderT.toCustomer;Nereye
+orderT;kuryeApp.orderT.fromCustomer;Nereden
+orderT;kuryeApp.orderT.company;Firma
+orderT;kuryeApp.orderT.status;Durum
+orderT;kuryeApp.orderT.deleted;{{ param }} no'lu Sipariþ Silindi
+orderT;kuryeApp.orderT.companyPacketService;Hizmet Paketi
+orderT;kuryeApp.orderT.home.createLabel;Yeni Sipariþ Oluþtur
+orderT;kuryeApp.orderT.home.notFound;Sipariþ Bulunamadý
+orderT;kuryeApp.orderT.fromAdress;Alým Adresi
+orderT;kuryeApp.orderT.reject.button;Sipariþi Reddet
+orderT;kuryeApp.orderT.price;Tutar
+orderT;kuryeApp.orderT.home.createOrEditLabel;Sipariþ Oluþtur veya Düzenle
+orderT;kuryeApp.orderT.toAddress;Teslimat Adresi
+orderT;kuryeApp.orderT.created;{{ param }} no'lu Sipariþ Oluþturuldu
+orderT;kuryeApp.orderT.confirm.button;Sipariþi Onayla
+orderT;kuryeApp.orderT.uuid;Uuid
+orderT;kuryeApp.orderT.products;Ürünler
+password;password.title;[<strong>{{username}}</strong>] kullanýcýsý için þifre
+password;password.messages.error;<strong>Bir hata oluþtu!</strong> Þifre deðiþtirilemedi.
+password;password.messages.success;<strong>Þifre deðiþtirildi!</strong>
+password;password.form.button;Kaydet
+priceList;kuryeApp.priceList.home.createLabel;Yeni Fiyat Listesi Oluþtur
+priceList;kuryeApp.priceList.home.title;Fiyat Listeleri
+priceList;kuryeApp.priceList.deliveryRegion;Teslimat Bölgesi
+priceList;kuryeApp.priceList.home.createOrEditLabel;Fiyat Listesi Oluþtur veya Düzenle
+priceList;kuryeApp.priceList.loadRegionGroup;Alým Bölge Grubu
+priceList;kuryeApp.priceList.updated;{{ param }} no'lu Fiyat Listesi Deðiþtirildi
+priceList;kuryeApp.priceList.price;Fiyat
+priceList;kuryeApp.priceList.duration;Süre (dk.)
+priceList;kuryeApp.priceList.created;{{ param }} no'lu Fiyat Listesi Oluþturuldu
+priceList;kuryeApp.priceList.detail.title;Fiyat Listesi
+priceList;kuryeApp.priceList.home.notFound;Fiyat Listesi Bulunamadý
+priceList;kuryeApp.priceList.status;Durum
+priceList;kuryeApp.priceList.currencyType;Para Birimi
+priceList;kuryeApp.priceList.deleted;{{ param }} no'lu Fiyat Listesi Silindi
+priceList;kuryeApp.priceList.companyPacket;Ek Hizmet Paketi
+priceList;kuryeApp.priceList.deliveryRegionGroup;Teslimat Bölge Grubu
+priceList;kuryeApp.priceList.delete.question;{{ id }} no'lu Fiyat Listesini Silmek Ýstediðinize Emin misiniz?
+priceList;kuryeApp.priceList.statuson;Aktif
+priceList;kuryeApp.priceList.loadRegion;Alým Bölgesi
+priceList;kuryeApp.priceList.statusoff;Pasif
+productType;kuryeApp.productType.deleted;{{ param }} no'lu Ürün Türü Silindi
+productType;kuryeApp.productType.statusoff;Pasif
+productType;kuryeApp.productType.created;{{ param }} no'lu Ürün Türü Oluþturuldu
+productType;kuryeApp.productType.updated;{{ param }} no'lu Ürün Türü Deðiþtirildi
+productType;kuryeApp.productType.companyType;Firma Türü
+productType;kuryeApp.productType.home.title;Ürün Türleri
+productType;kuryeApp.productType.home.createOrEditLabel;Ürün Türü Oluþtur veya Düzenle
+productType;kuryeApp.productType.home.notFound;Ürün Türü Bulunamadý
+productType;kuryeApp.productType.home.createLabel;Yeni Ürün Türü Oluþtur
+productType;kuryeApp.productType.delete.question;{{ id }} no'lu Ürün Türünü Silmek Ýstediðinize Emin misiniz?
+productType;kuryeApp.productType.detail.title;Ürün Türü
+productType;kuryeApp.productType.name;Ürün Türü
+productType;kuryeApp.productType.status;Durum
+productType;kuryeApp.productType.statuson;Aktif
+region;kuryeApp.region.deleted;{{ param }} no'lu Bölge Silindi
+region;kuryeApp.region.home.createOrEditLabel;Bölge Oluþtur veya Düzenle
+region;kuryeApp.region.home.notFound;Bölge Bulunamadý
+region;kuryeApp.region.district;Semt
+region;kuryeApp.region.detail.title;Bölge
+region;kuryeApp.region.name;Bölge
+region;kuryeApp.region.home.createLabel;Yeni Bölge Oluþtur
+region;kuryeApp.region.updated;{{ param }} no'lu Bölge Deðiþtirildi
+region;kuryeApp.region.home.title;Bölgeler
+region;kuryeApp.region.delete.question;{{ id }} no'lu Bölgeyi Silmek Ýstediðinize Emin misiniz?
+region;kuryeApp.region.home.search;Bölge Ara
+region;kuryeApp.region.placeHolder;Ülke / Þehir / Semt
+region;kuryeApp.region.city;Þehir
+region;kuryeApp.region.country;Ülke
+region;kuryeApp.region.noRegion;Bölge Bulunamadý
+region;kuryeApp.region.created;{{ param }} no'lu Bölge Oluþturuldu
+region;kuryeApp.region.county;Ýlçe
+region;kuryeApp.region.regionGroup;Grup
+regionGroup;kuryeApp.regionGroup.home.createLabel;Yeni Grup Oluþtur
+regionGroup;kuryeApp.regionGroup.created;{{ param }} no'lu Grup Oluþturuldu
+regionGroup;kuryeApp.regionGroup.deleted;{{ param }} no'lu Grup Silindi
+regionGroup;kuryeApp.regionGroup.updated;{{ param }} no'lu Grup Deðiþtirildi
+regionGroup;kuryeApp.regionGroup.detail.title;Grub
+regionGroup;kuryeApp.regionGroup.home.notFound;Grup Bulunamadý
+regionGroup;kuryeApp.regionGroup.company;Firma
+regionGroup;kuryeApp.regionGroup.region;Bölge
+regionGroup;kuryeApp.regionGroup.name;Grup
+regionGroup;kuryeApp.regionGroup.home.title;Gruplar
+regionGroup;kuryeApp.regionGroup.home.createOrEditLabel;Grup Oluþtur veya Düzenle
+regionGroup;kuryeApp.regionGroup.regions;Bölgeler
+regionGroup;kuryeApp.regionGroup.delete.question;{{ id }} no'lu Grubu Silmek Ýstediðinize Emin misiniz?
+register;register.form.button;Kayýt Ol
+register;register.messages.error.userexists;<strong>Girdiðiniz kullanýcý sistemde mevcut!</strong> Lütfen baþka bir kullanýcý deneyin.
+register;register.messages.error.emailexists;<strong>Email adresi zaten kullanýlýyor!</strong> Lütfen baþka bir mail seçiniz.
+register;register.messages.validate.login.required;Kullanýcý adý zorunlu.
+register;register.messages.success;<strong>Kayýt iþlemi yapýldý!</strong> Lütfen onay için e-posta'nýzý kontrol edin.
+register;register.title;Kayýt
+register;register.messages.error.fail;<strong>Kayýt iþlemi baþarýsýz oldu!</strong> Lütfen daha sonra tekrar deneyin.
+register;register.messages.validate.login.pattern;Your username is invalid.
+register;register.messages.validate.login.maxlength;Kullanýcý adý en fazla 50 karakter olabilir
+register;register.messages.validate.login.minlength;Kullanýcý adý en az 1 karakter olmak zorundadýr
+reset;reset.finish.messages.keymissing;Þifre sýfýrlama anahtarý geçersiz.
+reset;reset.request.form.button;Þifreyi sýfýrla
+reset;reset.finish.title;Þifreyi sýfýrla
+reset;reset.finish.messages.info;Yeni þifre seç
+reset;reset.finish.messages.success;<strong>Þifren sýfýrlandý.</strong> Lütfen 
+reset;reset.request.messages.success;Þifreni nasýl sýfýrlayacaðýný öðrenmek için e-postalarýný kontrol et.
+reset;reset.request.messages.info;Kayýt olurken kullandýðýn email adresini gir
+reset;reset.finish.form.button;Yeni þifreyi doðrula
+reset;reset.finish.messages.error;Þifren sýfýrlanamaz. Þifre isteði sadece 24 saat geçerlidir.
+reset;reset.request.title;Þifreni sýfýrla
+sessions;sessions.title;[<strong>{{username}}</strong>] kullanýcýsý için aktif oturumlar
+sessions;sessions.table.button;Etkisizleþtir
+sessions;sessions.messages.error;<strong>BÝr hata oluþtu!</strong> Oturum etkisizleþtirilemedi.
+sessions;sessions.table.date;Tarih
+sessions;sessions.table.useragent;Kullanýcý Bilgisi
+sessions;sessions.messages.success;<strong>Oturum etkisizleþtirildi!</strong>
+sessions;sessions.table.ipaddress;IP adresi
+settings;settings.messages.validate.firstname.maxlength;Ýsim en fazla 50 karakter olabilir
+settings;settings.form.lastname;Soyisim
+settings;settings.form.firstname.placeholder;Adýnýz
+settings;settings.messages.success;<strong>Ayarlar kaydedildi!</strong>
+settings;settings.messages.validate.lastname.minlength;Soyisim en az 1 karakter olmak zorundadýr
+settings;settings.messages.validate.firstname.minlength;Ýsim en az 1 karakter olmak zorundadýr
+settings;settings.messages.validate.firstname.required;Ýsim zorunludur.
+settings;settings.messages.error.fail;<strong>Bir hata oluþtu!</strong> Ayarlar kaydedilemedi.
+settings;settings.form.lastname.placeholder;Soyadýnýz
+settings;settings.messages.error.emailexists;<strong>Email adresi zaten kullanýlýyor!</strong> Lütfen baþka bir mail seçiniz.
+settings;settings.form.firstname;Ýsim
+settings;settings.title;Kullanýcý ayarlarý [<strong>{{username}}</strong>]
+settings;settings.form.language;Dil
+settings;settings.messages.validate.lastname.maxlength;Soyisim en fazla 50 karakter olabilir
+settings;settings.messages.validate.lastname.required;Soyisim zorunludur.
+settings;settings.form.button;Kaydet
+user-management;userManagement.lastModifiedDate;Düzenleme tarihi
+user-management;userManagement.detail.title;Kullanýcý
+user-management;userManagement.deleted;{{ param }} kullanýcýsý silindi
+user-management;userManagement.firstName;Ad
+user-management;userManagement.home.createOrEditLabel;Kullanýcý oluþtur veya düzenle
+user-management;userManagement.langKey;Dil
+user-management;userManagement.updated;{{ param }} kullanýcýsý güncellendi
+user-management;userManagement.home.createLabel;Yeni kullanýcý oluþtur
+user-management;userManagement.createdBy;Oluþturan
+user-management;userManagement.deactivated;Deaktif
+user-management;userManagement.createdDate;Oluþturma tarihi
+user-management;userManagement.activated;Aktif
+user-management;userManagement.lastModifiedBy;Düzenleyen
+user-management;userManagement.lastName;Soyad
+user-management;userManagement.login;Giriþ
+user-management;userManagement.home.title;Kullanýcýlar
+user-management;userManagement.created;{{ param }} kullanýcýsý oluþturuldu
+user-management;userManagement.profiles;Profiller
+user-management;userManagement.delete.question;{{ login }} kullanýcýsýný silmek istediðinize emin misiniz?
+user-management;userManagement.email;Eposta
+user-management;userManagement.company;Firma
